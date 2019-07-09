@@ -1,0 +1,44 @@
+---
+title: "tarea3"
+author: "Alejandro Herrera López"
+date: "8 de julio de 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r,message=FALSE,warning=FALSE}
+library(usethis)
+library(packrat)
+```
+
+```{r}
+init()
+```
+
+
+```{r, eval=T}
+use_directory("Auditoria")
+#Proyecto para generar datos sobre funcionarios que ha sido sancionados
+use_directory("Auditoria/preparacion")
+#Carpeta para preparar los datos
+use_directory("Auditoria/procesado")
+#Procesar la información
+use_directory("Auditoria/modelado")
+#Generar el ACP
+use_directory("pruebas")
+#Probar calidad del modelo
+use_directory("datos/en_crudo")
+#Datos iniciales
+use_directory("datos/procesados")
+#Datos procesados
+use_directory("reportes/img")
+use_directory("reportes/css")
+```
+
+```{r}
+
+```
+

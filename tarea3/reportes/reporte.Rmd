@@ -1,0 +1,27 @@
+---
+title: "reporte_proyecto"
+author: "Alejandro Herrera López"
+date: "8 de julio de 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Reporte proyecto:
+
+Calidad ACP
+
+```{r}
+graf<-readRDS("img/calidad_acp")
+graf
+```
+
+ACP
+```{r cars}
+graf<-readRDS("img/acp")
+graf
+
+```
+

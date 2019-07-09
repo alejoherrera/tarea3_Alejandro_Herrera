@@ -1,0 +1,15 @@
+Genero;Edad;Profesion;Puesto;Jefatura;Proceso;Eleccion_Popular;Institucion;Tipo_Institución;Salario;Rango_Salarial;Estado_Civil;Hijos_menores;Hijo_Mayores;Tiempo_Sector_Publico;Tipo_falta_num;Tipo_falta;Puesto_propiedad;Puesto_reservado;Declarante;Bienes_inmuebles;Bienes_muebles;Hipoteca;Prenda;Vacaciones_acum;Vacaciones_tomadas_anio
+M;34;Derecho;Proveedor;1;Compras;0;Muni 1;Local;1000000;1;Casado;2;0;12;101;Compras;1;0;1;1;1;1;1;40;2
+F;45;No Profesional;Alcalde;1;Jerarca;1;Muni 1;Local;1500000;2;Casado;0;1;20;101;Compras;0;1;1;1;1;1;1;39;6
+F;25;Economia;Contador;0;Financiero;0;Muni 1;Local;2000000;3;Union;4;0;2;101;Compras;1;0;0;1;1;0;0;120;0
+M;37;Politologo;Alcalde;1;Jerarca;1;Muni 2;Local;2500000;4;Soltero;1;1;5;102;Prohibicion;0;1;1;0;1;0;0;78;1
+M;22;Derecho;Sindico;0;Jerarca;1;Muni 3;Local;2200000;4;Soltero;0;0;7;103;Conflicto de interes;1;0;0;0;1;0;0;10;6
+F;55;Derecho;Proveedor;1;Compras;0;Ministerio A;Central;1650000;3;Divorciado;4;0;12;102;Prohibicion;1;1;0;0;0;0;0;67;0
+M;41;Contador ;Contador;0;Financiero;0;Ministerio B;Central;2000000;3;Divorciado;1;1;19;104;Salarios;0;0;1;1;0;0;0;100;3
+F;43;Administracion;Oficial Mayor;1;Asesoria;0;Ministerio A;Central;1000000;1;Casado;2;0;27;104;Salarios;0;0;1;1;1;1;1;90;1
+F;44;No Profesional;Alcalde;1;Jerarca;1;Muni 4;Local;800000;1;Divorciado;0;0;30;104;Salarios;0;0;1;1;0;0;1;70;3
+M;45;Ingeniero;Director;1;Ingenieria;0;Empresa 1;Empresa;3000000;4;Soltero;1;2;1;102;Prohibicion;1;0;0;0;1;0;0;50;2
+M;47;No Profesional;Alcalde;1;Jerarca;1;Muni 5;Local;1000000;1;Casado;2;0;4;101;Compras;0;1;1;0;0;0;0;20;3
+F;48;Economia;Asesor;0;Asesoria;0;Empresa 2;Empresa;3200000;4;Casado;0;3;6;101;Compras;1;1;0;0;0;0;0;45;10
+M;49;Politologo;Asesor;0;Asesoria;0;Ministerio C;Central;700000;1;Divorciado;3;0;16;103;Conflicto de interes;1;1;0;1;1;1;1;56;2
+F;51;Derecho;Asesor;0;Asesoria;0;Ministerio A;Central;2000000;3;Divorciado;0;0;19;103;Conflicto de interes;1;0;0;1;1;0;0;90;5
